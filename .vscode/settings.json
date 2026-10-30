@@ -1,0 +1,4 @@
+{
+  "typescript.tsdk": "local-explore-frontend/node_modules/typescript/lib",
+  "typescript.preferences.includePackageJsonAutoImports": "on"
+}

@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "baseUrl": "./local-explore-frontend",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "allowArbitraryExtensions": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "local-explore-frontend/src/**/*.ts",
+    "local-explore-frontend/src/**/*.d.ts",
+    "local-explore-frontend/src/**/*.vue"
+  ]
+}
